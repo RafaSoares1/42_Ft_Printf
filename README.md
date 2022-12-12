@@ -1,2 +1,2 @@
 # Ft_Printf
-42cursus' ft_printf project. Begin date 02/dec/2022. Finish date 09/sep/2021. About 70h of total work.
+The printf function is one of the most versatile and well-known functions in the C language.From a testing aid to tabulation method, printf is a very powerful and important tool in everydev's kit. This project aims to recreate the behaviour of the original MacOS's printf, includingits basic error management, some of its flags, minimum field width stipulation and most of itsbasic conversions.
